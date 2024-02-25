@@ -4,8 +4,8 @@ import Navbar from "../components/Navbar";
 
 const Layout = () => {
   return (
-    <div className="font-mainFont relative mx-[300px]">
-      <div>
+    <div className="font-mainFont relative ">
+      <div className="bg-primary-500">
         <Navbar />
       </div>
       <div>

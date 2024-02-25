@@ -3,7 +3,7 @@ import React from 'react'
 const Dashboard = () => {
   return (
     <div>
-    <div className='absolute right-0 left-0 bg-primary-400'>
+    <div className='lg:w-default lg:mx-auto bg-primary-400'>
             dashboard
     </div>
     </div>

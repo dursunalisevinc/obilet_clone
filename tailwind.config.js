@@ -35,6 +35,9 @@ module.exports = {
           900:"#0f172a",
           950:"#020617"
         }
+      },
+      width:{
+        default:"1024px"
       }
     },
   },
