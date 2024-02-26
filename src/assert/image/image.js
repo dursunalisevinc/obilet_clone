@@ -1,6 +1,8 @@
 import Logo from './logo.webp';
+import TurkishFlag from './turkey.png';
 export const oBilet = {
-    'logo': Logo
+    'logo': Logo,
+    'turkish':TurkishFlag
 }
 
 
